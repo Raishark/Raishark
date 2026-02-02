@@ -22,7 +22,7 @@
 Role:        DevOps / Full-Stack Engineer
 Power Level: Junior (Grinding XP... 🚀)
 Specialty:   AI-Driven Coding (The "Cheat Code" specialist)
-Location:    Barranquilla, Colombia 🇨🇴
+Location:    Unknow
 
 | Skill Tree | Level | Tech Proficiency |
 | --- | --- | --- |
@@ -71,7 +71,7 @@ Actualmente en una misión de alto nivel en **Emerald Fire**, donde utilizo la I
 
 * **LinkedIn:** [linkedin.com/in/raishark](https://www.linkedin.com/in/raishark)
 * **Email:** [raishark.dev@gmail.com](mailto:co)
-* **Discord:** `Raishark#0000`
+* **Discord:** `milkyrai_`
 
 ---
 

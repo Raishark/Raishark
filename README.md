@@ -19,10 +19,10 @@
 > "Optimizing code like a speedrunner, one commit at a time."
 
 
-Role:        DevOps / Full-Stack Engineer
-Power Level: Junior (Grinding XP... 🚀)
-Specialty:   AI-Driven Coding (The "Cheat Code" specialist)
-Location:    Unknow
+Role:        DevOps / Full-Stack Engineer 
+Power Level: Junior (Grinding XP... 🚀) 
+Specialty:   AI-Driven Coding (The "Cheat Code" specialist) 
+Location:    Unknow 
 
 | Skill Tree | Level | Tech Proficiency |
 | --- | --- | --- |
